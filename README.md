@@ -2,18 +2,6 @@
 >### Description <br><br>
 >  This note taking application allows users to write, save and delete notes easily. This app is a static webpage that is served by Express.js, and hosted by Heroku. <br><br>
 
-![JavaScript][js-url]
-![HTML][html-url]
-![CSS][css-url]
-![Express][express-url]
-![Node][node-url]
-![Heroku][heroku-url]
-
-
-![Image](./assets/scribble-screenshot.png)
-
-```
-
 ## Usage
 
 To add a new note, click the `+` icon in the upper right-hand corner. Write and save your note for later, or delete the note using the red trash can button.
