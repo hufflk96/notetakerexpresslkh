@@ -7,6 +7,10 @@
 To add a new note, click the `+` icon in the upper right-hand corner. Write and save your note for later, or delete the note using the red trash can button.
 
 ## Deployed Application
+https://note-taker-expresslkh.herokuapp.com/
+
+
+![Noteexpress](https://github.com/hufflk96/notetakerexpresslkh/assets/118147274/f65c2c1e-4fd8-417d-90c4-43c364c64381)
 
 ## Contact Me
 
