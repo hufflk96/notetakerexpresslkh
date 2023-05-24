@@ -4,7 +4,7 @@ This application allows users to write, save and delete notes. This application 
 
 ## Usage
 
-To add a new note, click the `+` icon in the upper right-hand corner. Write and save your note for later, or delete the note using the red trash can button.
+To add a new note, click the addition symbol on in the top right of the screen you can then continue to write and save your note for later, or delete the note using the red button.
 
 ## Deployed Application
 https://note-taker-expresslkh.herokuapp.com/
