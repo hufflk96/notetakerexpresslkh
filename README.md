@@ -17,8 +17,6 @@ Email: hufflk96@gmail.com
 
 My profile – [GitHub](https://github.com/hufflk96)
 
-Distributed under the MIT license. See ``LICENSE`` for more information.
-
 ## License
 No License
 <!-- Markdown link & img dfn's -->
