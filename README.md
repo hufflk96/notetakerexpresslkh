@@ -1,6 +1,6 @@
 # Note Taker ExpressLKH
->### Description <br><br>
->  This application allows users to write, save and delete notes. This application also uses Express.js and deployed using Heroku. <br><br>
+### Description 
+This application allows users to write, save and delete notes. This application also uses Express.js and deployed using Heroku. <br><br>
 
 ## Usage
 
