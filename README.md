@@ -1,6 +1,6 @@
 # Note Taker ExpressLKH
 >### Description <br><br>
->  This note taking application allows users to write, save and delete notes easily. This app is a static webpage that is served by Express.js, and hosted by Heroku. <br><br>
+>  This application allows users to write, save and delete notes. This application also uses Express.js and deployed using Heroku. <br><br>
 
 ## Usage
 
@@ -21,10 +21,7 @@ My profile – [GitHub](https://github.com/hufflk96)
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
 ## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  
-https://opensource.org/licenses/MIT
-
+No License
 <!-- Markdown link & img dfn's -->
 
 [node-url]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
