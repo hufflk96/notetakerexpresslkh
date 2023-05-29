@@ -27,12 +27,12 @@ body {
 .note-textarea {
   resize: none;
   height: calc(100% - 63px);
-  padding-top: 15px;
+  padding-top: 20px;
 }
 
 .note-title {
-  height: 50px;
-  margin-top: 13px;
+  height: 45px;
+  margin-top: 15px;
   font-size: 4rem;
 }
 
@@ -62,7 +62,7 @@ body {
 
 .list-item-title {
   display: inline-block;
-  width: 75%;
+  width: 80%;
 }
 
 .list-container i {
