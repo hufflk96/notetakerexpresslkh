@@ -10,15 +10,15 @@ body {
 }
 
 .icons i {
-  margin-left: 15px;
-  margin-right: 15px;
-  font-size: 1.5rem;
+  margin-left: 12px;
+  margin-right: 12px;
+  font-size: 1.2rem;
   cursor: pointer;
 }
 
 .note-textarea,
 .note-title {
-  color: #000000;
+  color: #E6E6FA;
   width: 100%;
   outline: none;
   border: none;
@@ -33,12 +33,12 @@ body {
 .note-title {
   height: 50px;
   margin-top: 13px;
-  font-size: 3rem;
+  font-size: 4rem;
 }
 
 .note-title:read-only,
 .note-textarea:read-only {
-  color: #757575;
+  color: #BF40BF;
 }
 
 .list-container .card {
@@ -66,7 +66,7 @@ body {
 }
 
 .list-container i {
-  font-size: 1.1rem;
+  font-size: 1.0rem;
   cursor: pointer;
 }
 
