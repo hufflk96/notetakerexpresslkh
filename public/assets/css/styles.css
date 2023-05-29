@@ -28,6 +28,7 @@ body {
   resize: none;
   height: calc(100% - 63px);
   padding-top: 20px;
+  color: #E9FFE8
 }
 
 .note-title {
