@@ -14,13 +14,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/t-starkw/scribble.git"
+    "url": "https://github.com/hufflk96/notetakerexpresslkh"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/t-starkw/scribble/issues"
   },
-  "homepage": "https://github.com/t-starkw/scribble#readme"
+  "homepage": "https://github.com/hufflk96/notetakerexpresslkh/blob/main/README.md"
 }
