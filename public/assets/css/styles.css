@@ -18,7 +18,7 @@ body {
 
 .note-textarea,
 .note-title {
-  color: #E6E6FA;
+  color: #BF40BF;
   width: 100%;
   outline: none;
   border: none;
@@ -38,7 +38,7 @@ body {
 
 .note-title:read-only,
 .note-textarea:read-only {
-  color: #E6E6FA;
+  color: #BF40BF;
 }
 
 .list-container .card {
